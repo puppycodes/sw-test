@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'u8';
+  src: url('U8-Hairline.eot'); /* IE9 Compat Modes */
+  src: url('U8-Hairline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('U8-Hairline.woff') format('woff'), /* Modern Browsers */
+       url('U8-Hairline.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('U8-Hairline.svg#e56fc5d89f76a317e53575bb035b90f3') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
 html {
 overflow-x: hidden;
 overflow-y: scroll;
